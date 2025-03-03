@@ -1,1 +1,1 @@
-All projects for laboratory work in the discipline "Structures and Algorithms of Computer Data Processing" are stored here.
+Здесь хранятся все проекты лабораторных работ по дисциплине «Структуры и алгоритмы компьютерной обработки данных» студента группы 2ИС Рябов.
